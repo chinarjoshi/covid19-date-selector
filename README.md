@@ -14,7 +14,7 @@ It was difficult to actually find the data in a usable form online, because it w
 I created my first deployable web API and made a visually appealing application to solve a real world problem, while introducing me to data science concepts along the way.
 
 ## What I learned
-I learned the fundamentals of data science through cleaning and filtering data and how to make useful visualizations by taking advantage of python's many data science libraries.
+I learned the fundamentals of data science through cleaning and filtering data and how to make useful visualizations by taking advantage of python's many data science libraries. I also learned how to use a new web application framework with Dash.
 
 ## What's next for COVID-19 Date Selector
 In the future I will implement different types of visualization of the data to provide a more complete picture of the situation.
