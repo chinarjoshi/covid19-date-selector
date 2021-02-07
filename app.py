@@ -26,8 +26,8 @@ radiobuttons = dcc.RadioItems(
         {"label": "Infection Rate", "value": "cases"},
         {"label": "Death Rate", "value": "deaths"}
     ],
+    value = "cases",
     className="radio",
-    value="cases"
 )
 
 date_selector = dcc.DatePickerSingle(
@@ -68,7 +68,14 @@ app.layout = html.Div([
     Input("dateselector", "date"),
     Input("datatype", "value"))
 def display_choropleth(date, datatype):
-    with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
+
+    color = "Viridis"
+    label = "Infection Rate"
+    if datatype == "deaths":
+        color = "hot"
+        label = "Death Rate"
+
+    with urlopen("https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json") as response:
         counties = json.load(response)
 
     raw_df = pd.read_csv("us-counties.csv",
@@ -76,10 +83,10 @@ def display_choropleth(date, datatype):
     filtered_df = raw_df[raw_df.date == date]
 
     fig = px.choropleth(filtered_df, geojson=counties, locations='fips', color=datatype,
-                            color_continuous_scale="Viridis",
+                            color_continuous_scale=color,
                             range_color=(0, filtered_df[datatype].mean() * 1.5),
                             scope="usa",
-                            labels={datatype:'Infection Rate'}
+                            labels={datatype: label}
                             )
     fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     return fig
