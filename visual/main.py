@@ -6,13 +6,17 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 import plotly.express as px
 from urllib.request import urlopen
+import pandas as pd
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 buttons = dbc.ButtonGroup(
     [
-        dbc.Button('Documentation', color='primary'),
-        dbc.Button('Download Dataset', color='primary')
+        html.Form(action='https://github.com/cjoshi7/covid19-date-selector',
+                  children=dbc.Button('Documentation', color='primary', type='submit')),
+
+        html.Form(action='https://github.com/nytimes/covid-19-data',
+                  children=dbc.Button('Download Dataset', color='primary', type='submit'))
     ]
 )
 
@@ -27,21 +31,27 @@ jumbotron = dbc.Jumbotron(
         html.P(
             "@cjoshi7",
         ),
-        html.P(buttons)
+        html.P(buttons),
     ]
 )
 
 app.layout = html.Div([
     html.Div(jumbotron),
-    dcc.DatePickerSingle(
-        id='date',
-        min_date_allowed='2020-1-21',
-        max_date_allowed='2021-2-5',
-        initial_visible_month='2021-2-5',
-        date='2021-2-5'
+    html.Div(
+        dcc.DatePickerSingle(
+            id='date',
+            min_date_allowed='2020-1-21',
+            max_date_allowed='2021-2-5',
+            initial_visible_month='2021-2-5',
+            date='2021-2-5'
+        )
     ),
-    html.Div(id='picked_date'),
-    html.Div([dcc.Graph(id="choropleth")])
+    html.Div(
+        id='picked_date'
+    ),
+    html.Div(
+        [dcc.Graph(id="choropleth")]
+    )
     # Include multiple types of graphs for each date.
 ])
 
@@ -52,7 +62,6 @@ def display_choropleth(date):
     with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
         counties = json.load(response)
 
-    import pandas as pd
     raw_df = pd.read_csv("us-counties.csv",
                     dtype={"fips": str})
     filtered_df = raw_df[raw_df.date == date]
