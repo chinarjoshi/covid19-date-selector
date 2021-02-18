@@ -122,6 +122,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 __See the [open issues](https://github.com/cjoshi7/covid19-date-selector) for a list of proposed features (and known issues).__
+<br>
 <p>
   The following features will be implemented in the indefinite future:
   <ul>
