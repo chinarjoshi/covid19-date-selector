@@ -98,7 +98,7 @@ The prerequisite frameworks and libraries are dash, plotly, and pandas.
    ```sh
    git clone https://github.com/cjoshi7/covid19-date-selector
    ```
-2. Install NPM packages
+2. Install prerequisite packages
    ```sh
    pip install requirements.txt
    ```
