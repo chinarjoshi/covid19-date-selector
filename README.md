@@ -1,10 +1,6 @@
-
-
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/cjoshi7/covid19-date-selector">
     <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
@@ -23,8 +19,6 @@
     <a href="https://github.com/cjoshi7/covid19-date-selector">Request Feature</a>
   </p>
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
