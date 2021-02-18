@@ -125,7 +125,7 @@ __See the [open issues](https://github.com/cjoshi7/covid19-date-selector) for a 
 <br>
 <p>
   The following features will be implemented in the indefinite future:
-  <ul>
+  <ol>
     <li>
       Expanded dataset to include:
       <ul>
@@ -136,7 +136,7 @@ __See the [open issues](https://github.com/cjoshi7/covid19-date-selector) for a 
     </li>
     <li>Dark theme through altered CSS</li>
     <li>An option to use the program in the command line</li>
-  </ul>
+  </ol>
 </p>
 
 <!-- CONTACT -->
