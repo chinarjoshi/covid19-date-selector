@@ -12,7 +12,7 @@
     <a href="https://github.com/cjoshi7/covid19-date-selector"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/cjoshi7/covid19-date-selector">View Demo</a>
+    <a href="https://youtu.be/v6lsjcFfK9Q">View Demo</a>
     ·
     <a href="https://github.com/cjoshi7/covid19-date-selector">Report Bug</a>
     ·
@@ -104,7 +104,7 @@ The prerequisite frameworks and libraries are dash, plotly, and pandas.
    pip install requirements.txt
    ```
 4. Directly run the python file
-   ```JS
+   ```sh
    python covid19-date-selector/app.py
    ```
 
