@@ -126,7 +126,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+__See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).__
 In the future I will implement different types of visualization of the data to provide a more complete picture of the situation.
 
 <!-- CONTACT -->
