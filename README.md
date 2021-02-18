@@ -76,7 +76,6 @@ I learned the fundamentals of data science through cleaning and filtering data a
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Dash](https://plotly.com/dash)
 * [Bootstrap](https://getbootstrap.com)
 
