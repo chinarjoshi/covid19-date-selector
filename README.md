@@ -72,7 +72,7 @@ I created my first deployable web API and made a visually appealing application 
 I learned the fundamentals of data science through cleaning and filtering data and how to make useful visualizations by taking advantage of python's many data science libraries. I also learned how to use a new web application framework with Dash.
 
 ## What's next for COVID-19 Date Selector
-In the future I will implement different types of visualization of the data to provide a more complete picture of the situation.
+
 
 ### Built With
 
@@ -125,13 +125,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+In the future I will implement different types of visualization of the data to provide a more complete picture of the situation.
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Chinar Joshi - chinarjoshi7@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.com/cjoshi7/covid19-date-selector)
 
 
 
