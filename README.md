@@ -8,7 +8,7 @@
     <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">COVID-19 Date Selector</h3>
+  <h2 align="center">COVID-19 Date Selector</h2>
 
   <p align="center">
     Visualize the spread of the coronavirus on a day-by-day basis.
