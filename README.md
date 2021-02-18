@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://github.com/cjoshi7/covid19-date-selector">
-    <img src="images/deaths.png">
+    <img src="images/deaths.png" alt="example-image" width=700 height=500>
   </a>
 </p>
 
