@@ -90,30 +90,26 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+The prerequisite frameworks and libraries are dash, plotly, and pandas.
 * pip
   ```sh
-  pip install plotly
-  pip install dash
-  pip install pandas
+  pip install requirements.txt
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
-   npm install
+   pip install requirements.txt
    ```
-4. Enter your API in `config.js`
+4. Directly run the python file
    ```JS
-   const API_KEY = 'ENTER YOUR API';
+   python covid19-date-selector/app.py
    ```
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -129,7 +125,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 __See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).__
-In the future I will implement different types of visualization of the data to provide a more complete picture of the situation.
+<p>
+  In the future I will implement different types of visualization of the data to provide a more complete picture of the situation.
+</p>
 
 <!-- CONTACT -->
 ## Contact
