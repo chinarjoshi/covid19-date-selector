@@ -45,7 +45,9 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -54,12 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center">
-  <a href="https://github.com/cjoshi7/covid19-date-selector">
-    <img src="images/deaths.png" alt="example-image" width=700 height=500>
-  </a>
-</p>
-
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Inspiration
 While researching for COVID-19 data, I noticed that all of the popular visualization resources either only showed the [current situation](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html), or showed a [quick timeline](https://kitware.github.io/covid-19-vis/). This is not very helpful for researching the number of cases in a specific county on any day as it provides too general of a visualization. Thus, I created a day-by-day visualization tool that allows researchers to query the data for a specific day in a user friendly and visually appealing way.
@@ -128,21 +125,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 __See the [open issues](https://github.com/cjoshi7/covid19-date-selector) for a list of proposed features (and known issues).__
 <br>
-<p>
-  The following features will be implemented in the indefinite future:
-  <ol>
-    <li>
-      Expanded dataset to include:
-      <ul>
-        <li>Mask usage</li>
-        <li>Population density</li>
-        <li>Demographic breakdown</li>
-      </ul>
-    </li>
-    <li>Dark theme through altered CSS</li>
-    <li>An option to use the program in the command line</li>
-  </ol>
-</p>
+
+The following features will be implemented in the indefinite future:
+1. Expanded dataset to include:
+    - Mask usage
+    - Population Density
+    - Demographic breakdown
+2.  Dark theme
+3.  An option to use the program in the command line
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -154,9 +145,6 @@ Any contributions to implement features are **greatly appreciated**.
 3. Commit your Changes (`git commit -m 'Add NewFeature'`)
 4. Push to the Branch (`git push origin feature/newFeature`)
 5. Open a Pull Request
-
-<!-- LICENSE -->
-
 
 <!-- CONTACT -->
 ## Contact
