@@ -4,6 +4,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
 <p align="center">
   <a href="https://github.com/cjoshi7/covid19-date-selector">
     <img src="images/logo.png" alt="Logo" width="110" height="110">
