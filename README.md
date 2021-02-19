@@ -56,8 +56,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Death Rate Example][deaths-img]](https://github.com/cjoshi7/covid19-date-selector)
-[![Infection Rate Example][infections-img]](https://github.com/cjoshi7/covid19-date-selector)
+<p align="center">
+  <a href="https://github.com/cjoshi7/DS-Emacs">
+    <img src="images/deaths.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cjoshi7/DS-Emacs">
+    <img src="images/original.png" alt="example-image" width=900 height=600>
+  </a>
+</p>
 
 ### Inspiration
 While researching for COVID-19 data, I noticed that all of the popular visualization resources either only showed the [current situation](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html), or showed a [quick timeline](https://kitware.github.io/covid-19-vis/). This is not very helpful for researching the number of cases in a specific county on any day as it provides too general of a visualization. Thus, I created a day-by-day visualization tool that allows researchers to query the data for a specific day in a user friendly and visually appealing way.
