@@ -147,7 +147,7 @@ __See the [open issues](https://github.com/cjoshi7/covid19-date-selector) for a 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Any contributions to implement features are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -169,6 +169,7 @@ Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Virus Icon](https://dndi.org/diseases/covid-19/target-product-profile/)
+* [Readme Template](https://github.com/othneildrew/Best-README-Template)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Animate.css](https://daneden.github.io/animate.css)
