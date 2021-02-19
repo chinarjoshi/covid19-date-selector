@@ -130,8 +130,6 @@ This tool can be used for research purposes to find the exact number of cases in
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
