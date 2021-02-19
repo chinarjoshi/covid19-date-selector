@@ -56,7 +56,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/cjoshi7/covid19-date-selector)
+[![Death Rate Example][deaths-img]](https://github.com/cjoshi7/covid19-date-selector)
+[![Infection Rate Example][infections-img]](https://github.com/cjoshi7/covid19-date-selector)
 
 ### Inspiration
 While researching for COVID-19 data, I noticed that all of the popular visualization resources either only showed the [current situation](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html), or showed a [quick timeline](https://kitware.github.io/covid-19-vis/). This is not very helpful for researching the number of cases in a specific county on any day as it provides too general of a visualization. Thus, I created a day-by-day visualization tool that allows researchers to query the data for a specific day in a user friendly and visually appealing way.
@@ -172,4 +173,5 @@ Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/chinarjoshi
-[product-screenshot]: images/deaths.png
+[deaths-img]: images/deaths.png
+[infections-img]: images/original.png
