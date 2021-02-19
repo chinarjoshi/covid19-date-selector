@@ -168,7 +168,7 @@ Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Icon](https://dndi.org/diseases/covid-19/target-product-profile/)
+* [Virus Icon](https://dndi.org/diseases/covid-19/target-product-profile/)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Animate.css](https://daneden.github.io/animate.css)
