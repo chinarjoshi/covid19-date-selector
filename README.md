@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/cjoshi7/covid19-date-selector">
-    <img src="images/logo.png" alt="Logo" width="110" height="110">
+    <img src="images/logo.png" alt="Logo" width="115" height="115">
   </a>
 
   <h1 align="center">COVID-19 Date Selector</h1>
