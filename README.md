@@ -55,7 +55,6 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -64,7 +63,6 @@
     <img src="images/deaths.png" alt="example-image" width=900 height=600>
   </a>
 </p>
-
 
 
 ### Inspiration
@@ -106,6 +104,8 @@ The prerequisite frameworks and libraries are dash, plotly, and pandas.
 
 ### Installation
 
+#### Compile Source
+
 1. Clone the repo
    ```sh
    git clone https://github.com/cjoshi7/covid19-date-selector
@@ -119,6 +119,9 @@ The prerequisite frameworks and libraries are dash, plotly, and pandas.
    python covid19-date-selector/app.py
    ```
 
+#### Docker
+
+__TODO__
 
 <!-- USAGE EXAMPLES -->
 ## Usage
