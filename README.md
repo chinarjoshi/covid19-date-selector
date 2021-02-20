@@ -131,7 +131,7 @@ The prerequisite frameworks and libraries are dash, plotly, and pandas.
 
 This tool can be used for research purposes to find the exact number of cases in a specific county on any day. It is useful to see the patterns of infection and death rate increases/decreases. For example, it can be seen that the number of infections skyrocketed in early January after the holiday season. The tool is useful for establishing patterns such as this.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/chinarjoshi/covid19-date-selector)_
 
 <!-- ROADMAP -->
 ## Roadmap
