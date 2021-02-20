@@ -197,7 +197,7 @@ Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.
 [issues-shield]: https://img.shields.io/github/issues/chinarjoshi/covid19-date-selector?style=for-the-badge
 [issues-url]: https://github.com/chinarjoshi/covid19-date-selector/issues
 [license-shield]: https://img.shields.io/github/license/chinarjoshi/covid19-date-selector?style=for-the-badge
-[license-url]: https://github.com/chinarjoshi/covid19-date-selector/blob/master/LICENSE.txt
+[license-url]: https://github.com/chinarjoshi/covid19-date-selector/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chinar-joshi-905493207/
 [product-screenshot]: images/screenshot.png
