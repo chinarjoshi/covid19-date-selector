@@ -177,16 +177,16 @@ Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/chinarjoshi/meteorological-query-tool?style=for-the-badge
-[contributors-url]: https://github.com/chinarjoshi/meteorological-query-tool/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/chinarjoshi/meteorological-query-tool?style=for-the-badge
-[forks-url]: https://github.com/chinarjoshi/meteorological-query-tool/network/members
-[stars-shield]: https://img.shields.io/github/stars/chinarjoshi/meteorological-query-tool?style=for-the-badge
-[stars-url]: https://github.com/chinarjoshi/meteorological-query-tool/stargazers
-[issues-shield]: https://img.shields.io/github/issues/chinarjoshi/meteorological-query-tool?style=for-the-badge
-[issues-url]: https://github.com/chinarjoshi/meteorological-query-tool/issues
-[license-shield]: https://img.shields.io/github/license/chinarjoshi/meteorological-query-tool?style=for-the-badge
-[license-url]: https://github.com/chinarjoshi/meteorological-query-tool/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/chinarjoshi/covid19-date-selector?style=for-the-badge
+[contributors-url]: https://github.com/chinarjoshi/covid19-date-selector/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/chinarjoshi/covid19-date-selector?style=for-the-badge
+[forks-url]: https://github.com/chinarjoshi/covid19-date-selector/network/members
+[stars-shield]: https://img.shields.io/github/stars/chinarjoshi/covid19-date-selector?style=for-the-badge
+[stars-url]: https://github.com/chinarjoshi/covid19-date-selector/stargazers
+[issues-shield]: https://img.shields.io/github/issues/chinarjoshi/covid19-date-selector?style=for-the-badge
+[issues-url]: https://github.com/chinarjoshi/covid19-date-selector/issues
+[license-shield]: https://img.shields.io/github/license/chinarjoshi/covid19-date-selector?style=for-the-badge
+[license-url]: https://github.com/chinarjoshi/covid19-date-selector/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chinar-joshi-905493207/
 [product-screenshot]: images/screenshot.png
