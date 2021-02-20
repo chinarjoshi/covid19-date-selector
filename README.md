@@ -1,5 +1,8 @@
 [![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -7,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/cjoshi7/covid19-date-selector">
-    <img src="images/logo.png" alt="Logo" width="115" height="115">
+    <img src="images/logo.png" alt="Logo" width="95" height="95">
   </a>
 
   <h1 align="center">COVID-19 Date Selector</h1>
@@ -164,7 +167,6 @@ Chinar Joshi - chinarjoshi7@gmail.com
 Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.com/cjoshi7/covid19-date-selector)
 
 
-<!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Virus Icon](https://dndi.org/diseases/covid-19/target-product-profile/)
 * [Readme Template](https://github.com/othneildrew/Best-README-Template)
@@ -173,14 +175,18 @@ Project Link: [https://github.com/cjoshi7/covid19-date-selector](https://github.
 * [Animate.css](https://daneden.github.io/animate.css)
 * [Loaders.css](https://connoratherton.com/loaders)
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[contributors-shield]: https://img.shields.io/github/contributors/chinarjoshi/meteorological-query-tool?style=for-the-badge
+[contributors-url]: https://github.com/chinarjoshi/meteorological-query-tool/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/chinarjoshi/meteorological-query-tool?style=for-the-badge
+[forks-url]: https://github.com/chinarjoshi/meteorological-query-tool/network/members
+[stars-shield]: https://img.shields.io/github/stars/chinarjoshi/meteorological-query-tool?style=for-the-badge
+[stars-url]: https://github.com/chinarjoshi/meteorological-query-tool/stargazers
+[issues-shield]: https://img.shields.io/github/issues/chinarjoshi/meteorological-query-tool?style=for-the-badge
+[issues-url]: https://github.com/chinarjoshi/meteorological-query-tool/issues
+[license-shield]: https://img.shields.io/github/license/chinarjoshi/meteorological-query-tool?style=for-the-badge
+[license-url]: https://github.com/chinarjoshi/meteorological-query-tool/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/chinarjoshi
-[deaths-img]: images/deaths.png
-[infections-img]: images/original.png
+[linkedin-url]: https://www.linkedin.com/in/chinar-joshi-905493207/
+[product-screenshot]: images/screenshot.png
