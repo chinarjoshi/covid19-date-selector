@@ -121,7 +121,7 @@ The prerequisite frameworks and libraries are dash, plotly, and pandas.
 
 #### Docker
 
-__TODO__
+1. __TODO__
 
 <!-- USAGE EXAMPLES -->
 ## Usage
