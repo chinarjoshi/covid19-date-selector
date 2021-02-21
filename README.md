@@ -59,6 +59,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<h3 align="center">
+    This project was submitted to
+    <a href="https://hacklytics.io/">
+        Georgia Tech Hacklytics
+    </a>
+</h3>
+
 <p align="center">
   <a href="https://github.com/cjoshi7/DS-Emacs">
     <img src="images/deaths.png" alt="example-image" width=900 height=600>
