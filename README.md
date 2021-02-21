@@ -57,7 +57,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<h2 align="center">About The Project</h2>
 
 <h3 align="center">
     This project was submitted to
