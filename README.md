@@ -147,7 +147,7 @@ _For more examples, please refer to the [Documentation](https://github.com/china
 <!-- ROADMAP -->
 ## Roadmap
 
-__See the [open issues](https://github.com/cjoshi7/covid19-date-selector) for a list of proposed features (and known issues).__
+__See the [open issues](https://github.com/cjoshi7/covid19-date-selector/issues) for a list of proposed features (and known issues).__
 <br>
 
 The following features will be implemented in the indefinite future:
