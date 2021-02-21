@@ -23,9 +23,9 @@
     <br />
     <a href="https://youtu.be/v6lsjcFfK9Q">View Demo</a>
     ·
-    <a href="https://github.com/cjoshi7/covid19-date-selector">Report Bug</a>
+    <a href="https://github.com/cjoshi7/covid19-date-selector/issues">Report Bug</a>
     ·
-    <a href="https://github.com/cjoshi7/covid19-date-selector">Request Feature</a>
+    <a href="https://github.com/cjoshi7/covid19-date-selector/issues">Request Feature</a>
   </p>
 </p>
 
