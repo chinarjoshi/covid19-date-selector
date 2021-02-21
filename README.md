@@ -16,7 +16,7 @@
   <h1 align="center">COVID-19 Date Selector</h1>
 
   <p align="center">
-    Visualize the spread of the coronavirus on a day-by-day basis.
+    Visualize the spread of COVID-19 on a day-by-day basis.
     <br />
     <a href="https://github.com/cjoshi7/covid19-date-selector"><strong>Explore the docs »</strong></a>
     <br />
